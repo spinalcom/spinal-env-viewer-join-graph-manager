@@ -5,7 +5,8 @@
   "dependencies": {
   "spinal-env-viewer-plugin-graph-manager": "git+https://github.com/spinalcom/spinal-env-viewer-plugin-graph-manager.git",
   "spinal-env-viewer-context-geographic": "git+https://github.com/spinalcom/spinal-env-viewer-context-geographic.git",
-  "spinal-env-viewer-plugin-generate_geographic_context": "https://github.com/spinalcom/spinal-env-viewer-plugin-generate_geographic_context.git"
+  "spinal-env-viewer-plugin-generate_geographic_context": "https://github.com/spinalcom/spinal-env-viewer-plugin-generate_geographic_context.git",
+  "spinal-env-viewer-plugin-attribute_inspector":"https://github.com/spinalcom/spinal-env-viewer-plugin-attribute_inspector.git"
   },
   "main": "index.js",
   "scripts": {
